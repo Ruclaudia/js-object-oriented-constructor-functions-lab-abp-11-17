@@ -11,7 +11,7 @@ function Scooter (year, color, model) {
    this.experience = experience
  }
 
-function PickupLocation (adress, city) {
+function PickupLocation (address, city) {
   this.address = address
   this.city = city
 }
